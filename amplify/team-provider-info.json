@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aisommelierapp-dev-14210-authRole",
+      "UnauthRoleArn": "arn:aws:iam::210031362185:role/amplify-aisommelierapp-dev-14210-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::210031362185:role/amplify-aisommelierapp-dev-14210-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aisommelierapp-dev-14210-deployment",
+      "UnauthRoleName": "amplify-aisommelierapp-dev-14210-unauthRole",
+      "StackName": "amplify-aisommelierapp-dev-14210",
+      "StackId": "arn:aws:cloudformation:us-east-1:210031362185:stack/amplify-aisommelierapp-dev-14210/ed35b9e0-7ef2-11ed-b5f7-0eaf53039dbb",
+      "AmplifyAppId": "dlyta1k16x54"
+    },
+    "categories": {
+      "auth": {
+        "aisommelierapp2b0b5716": {}
+      }
+    }
+  }
+}
